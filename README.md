@@ -41,13 +41,6 @@ Welcome to my corner of GitHub! 🚀 I'm a Full-Stack Developer with a deep pass
 
 ---
 
-## 🏆 Featured Projects  
-
-- OSP(#)**: A project aimed at solving [problem statement]. My role involved designing the backend using Spring Boot and integrating it with Angular for a seamless user experience.  
-- CAD(#)**: A showcase of how clean architecture principles can be applied to real-world problems, built with Java and C#.  
-- Microservices(#)**: A practical implementation of a microservices architecture, including API Gateway, service registry, and distributed tracing.  
-
----
 
 ## 🌍 Open Source Love  
 
@@ -68,7 +61,7 @@ If you’re working on an exciting open-source project and need help with backen
 
 ## 📫 Let’s Connect!  
 
-- 🌐 Portfolio: [Coming soon! 🚀]  
+- 🌐 Portfolio: Coming soon! 🚀
 - 💼 LinkedIn: https://www.linkedin.com/in/jesusroig/   
 - 📧 Email: jesusroig10@gmail.com 
 
